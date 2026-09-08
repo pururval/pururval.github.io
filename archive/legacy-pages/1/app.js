@@ -1,3 +1,5 @@
+// Particles.js is distributed under the MIT license: https://github.com/VincentGarreau/particles.js
+// The referenced iTunes podcast icon is hosted by LexisNexis; confirm permission before publishing this archived page.
 particlesJS("particles-js", {
   particles: {
     number: { value: 100, density: { enable: false, value_area: 800 } },
